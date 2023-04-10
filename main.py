@@ -22,5 +22,9 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 if __name__ == '__main__':
     print_hi('PyCharm')
+XYI EMIL V SOCHNIY
+
+git add *
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
